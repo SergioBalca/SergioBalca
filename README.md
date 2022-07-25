@@ -10,9 +10,7 @@
 </br>
 </br>
 <a href="https://www.linkedin.com/in/sergiobalca">
-  <img align="left" alt="Sergio Balcázar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  <p>www.linkedin.com/in/sergiobalca</p>
-</a>
+  <img align="left" alt="Sergio Balcázar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> <p>www.linkedin.com/in/sergiobalca</p> </a>
 </br>
 </br>
 
