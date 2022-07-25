@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## My name is Sergio Balcázar Restrepo. I'm a self-learner Sofware Developer and Electrical Engineer, looking for new and exciting oportunities in the tech industry
-## Contact 📧 balca123@hotmail.com or 📧3896@holbertonstudents.com
+## Contact 
+📧 balca123@hotmail.com
+📧3896@holbertonstudents.com
 <a href="https://www.linkedin.com/in/sergiobalca">
   <img align="left" alt="Sergio Balcázar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
