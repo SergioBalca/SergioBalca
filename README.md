@@ -3,8 +3,6 @@
 ## My name is Sergio Balcázar Restrepo. I'm a self-learner Sofware Developer and Electrical Engineer, looking for new and exciting oportunities in the tech industry.
 
 ## Contact 
-</br>
-</br>
 📧 balca123@hotmail.com
 </br>
 </br>
