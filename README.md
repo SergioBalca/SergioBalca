@@ -4,11 +4,11 @@
 
 ## Contact 
 
-📧 balca123@hotmail.com
+📧  balca123@hotmail.com
 </br>
 </br>
 
-📧 3896@holbertonstudents.com
+📧  3896@holbertonstudents.com
 
 <a href="https://www.linkedin.com/in/sergiobalca">
   </br>
