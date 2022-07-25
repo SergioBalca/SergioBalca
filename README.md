@@ -4,17 +4,15 @@
 
 ## Contact 
 
-
 📧 balca123@hotmail.com
 </br>
 </br>
 📧 3896@holbertonstudents.com
-</br>
-</br>
+
 <a href="https://www.linkedin.com/in/sergiobalca">
+  </br>
   <img align="left" alt="Sergio Balcázar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> <p>www.linkedin.com/in/sergiobalca</p> </a>
-</br>
-</br>
+
 
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioBalca)](https://github.com/SergioBalca/github-readme-stats)
 
