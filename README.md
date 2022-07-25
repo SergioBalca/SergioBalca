@@ -20,7 +20,7 @@
 
 ## :floppy_disk: My stack:
 
-<img align="right" alt="career loading gif" src="https://i.imgur.com/xkViGUz.png" height="322px"/>
+<img align="right" alt="career loading gif" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg" height="322px"/>
 
 **Languages:**
 
